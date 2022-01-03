@@ -1,4 +1,7 @@
 # tensorflow-variables-edit-script
+
+***내용은 content.pdf 참조하세요***
+
 Tensorflow 모델 저장이 2GB 제한 있음
 
 구글 protocol buffer 자체 스펙 문제 
